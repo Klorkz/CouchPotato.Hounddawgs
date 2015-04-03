@@ -13,3 +13,7 @@ Settings --> Searcher --> Hounddawgs and then add username/password
 
 # Updates/Issues
 https://github.com/Klorkz/CouchPotato.Hounddawgs
+
+#Thanks
+* [swordfischer](https://github.com/swordfischer)
+* [flightlevel](https://github.com/flightlevel)
